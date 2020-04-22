@@ -1,2 +1,2 @@
 # Learning-Development
-Learning  Development concepts and practicing them
+Learning  Development concepts and practicing them.
